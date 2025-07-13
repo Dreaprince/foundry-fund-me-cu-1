@@ -21,3 +21,6 @@ docs/
 zkout/
 
 .DS_Store
+
+# Keep lib folders but ignore contents inside them
+lib/*/*
